@@ -4,7 +4,7 @@
 - 📫 How to reach me - you can contact me through:
 -                      email - hridayansh018@gmail.com
 -                      insta - @__hridayansh
--                      twitter - @hridayansh018
+-                      X - @hridayansh018
 - 😄 Pronouns: he/him
 
 <!---

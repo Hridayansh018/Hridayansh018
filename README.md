@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Hridayansh018
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me, insta - @__hridayansh
+- 📫 How to reach me - you can contact me through:
+-                      email - hridayansh018@gmail.com
+-                      insta - @__hridayansh
 -                      twitter - @hridayansh018
 - 😄 Pronouns: he/him
 

@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me, insta - @__hridayansh
--                      titter - @hridayansh018
+-                      twitter - @hridayansh018
 - 😄 Pronouns: he/him
 
 <!---

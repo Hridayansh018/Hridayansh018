@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hridayansh018
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python
+- 🚀 Passionate about AI/ML
+- 🎓 Recent high school graduate 
 - 📫 How to reach me - you can contact me through:
 -                      email - hridayansh018@gmail.com
 -                      insta - @__hridayansh

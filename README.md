@@ -5,6 +5,7 @@
 -                      email - hridayansh018@gmail.com
 -                      insta - @__hridayansh
 -                      X - @hridayansh018
+-                      [linckedin](linkedin.com/in/hridayansh-awasthi-0095a12b6)
 - 😄 Pronouns: he/him
 
 <!---

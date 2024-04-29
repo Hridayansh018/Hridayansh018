@@ -10,7 +10,7 @@
 - [LinkedIn](https://www.linkedin.com/in/hridayansh-awasthi-0095a12b6)
 - [Instagram](https://www.instagram.com/__hridayansh)
 
-📧 Feel free to reach out via email: [email](hridayansh018@gmail.com)
+📧 Feel free to reach out via email:(hridayansh018@gmail.com)
 <!---
 Hridayansh018/Hridayansh018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

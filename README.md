@@ -5,7 +5,6 @@
 👨‍💻 Currently learning and building projects in AI/ML.
 
 🔗 Connect with me on:
-- [GitHub](https://github.com/Hridayansh018)
 - [Twitter](https://twitter.com/hridayansh018)
 - [LinkedIn](https://www.linkedin.com/in/hridayansh-awasthi-0095a12b6)
 - [Instagram](https://www.instagram.com/__hridayansh)

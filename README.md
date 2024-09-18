@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm currently working on mern stack development<br>I'm currently studying ai and machine learning and generative ai<br>
+# 👨‍💻 Full Stack Developer | MERN Stack | Machine Learning & Data Science Explorer
 
+Building solutions that bridge the gap between creativity and technology.<br>
+<br>Currently enhancing my skills in MERN stack development while diving into the exciting realms of Machine Learning and Data Science.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@__hridayansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hridayansh-awasthi-0095a12b6/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hridayansh018) 

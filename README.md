@@ -141,13 +141,20 @@ A real-time multiplayer quiz platform with live leaderboards, team scoring, and 
 
 ### Streak Statistics
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridayansh018&theme=tokyonight&hide_border=true"/>
-</p>
+
+  
+<!-- DenverCoder1 -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hridayansh018&theme=dark&hide_border=true)
+
 
 ### Contribution Calendar
 
-<img src="https://ghchart.rshah.org/409ba5/Hridayansh018" alt="GitHub Contribution Calendar" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitblend.com/api/contributions/github?username=Hridayansh018&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitblend.com/api/contributions/github?username=Hridayansh018&theme=light">
+  <img alt="GitHub Contributions" src="https://gitblend.com/api/contributions/github?username=Hridayansh018&theme=github">
+</picture>
+
 ---
 
 ## Let's Connect
@@ -170,6 +177,8 @@ I'm always open to connecting with developers, builders, and people working on i
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hridayansh018\&color=blueviolet\&style=for-the-badge\&label=Profile+Views)](https://github.com/Hridayansh018)
+
+
+
 
 </div>

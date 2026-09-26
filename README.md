@@ -9,10 +9,19 @@ Building AI-powered products and scalable web applications that solve real-world
 ## Current Focus
 
 * Working on: **AI-powered full-stack applications and Agentic AI systems**
+* Practicing: **DSA, problem solving, and competitive programming**
 * Learning: **LLM systems, RAG, AI agents, and scalable AI backends**
 * Interested in: **Generative AI, real-time systems, automation, and developer tools**
-* Ask me about: **Full Stack Development, Python, GenAI, RAG, APIs, and WebSockets**
 * Building with: **Python, FastAPI, Next.js, React, and TypeScript**
+
+---
+
+## LeetCode
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hridayansh018?theme=radical&font=Ropa%20Sans)
+</div>
 
 ---
 
@@ -144,16 +153,27 @@ A real-time multiplayer quiz platform with live leaderboards, team scoring, and 
 
   
 <!-- DenverCoder1 -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hridayansh018&theme=dark&hide_border=true)
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Hridayansh018&theme=dark&hide_border=true)
+  
+</div>
+
 
 
 ### Contribution Calendar
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitblend.com/api/contributions/github?username=Hridayansh018&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://gitblend.com/api/contributions/github?username=Hridayansh018&theme=light">
-  <img alt="GitHub Contributions" src="https://gitblend.com/api/contributions/github?username=Hridayansh018&theme=github">
-</picture>
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitblend.com/api/contributions/github?username=Hridayansh018&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://gitblend.com/api/contributions/github?username=Hridayansh018&theme=light">
+    <img alt="GitHub Contributions" src="https://gitblend.com/api/contributions/github?username=Hridayansh018&theme=github">
+  </picture>
+
+</div>
+  
+
 
 ---
 
